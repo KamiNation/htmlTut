@@ -52,7 +52,10 @@ Inline vs Internal vs External CSS
 
 CSS Selectors
 
+The CSS Box Model
+
 Classes vs IDs
+
 
 Color Properties
 
@@ -62,7 +65,6 @@ Fonts and Typography
 
 Font Sizing (px, em, rem)
 
-The CSS Box Model
 
 Margin, Padding, Border
 
@@ -92,19 +94,7 @@ Inheritance
 
 CSS Best Practices
 
-🟢 SECTION 5: Web Design & UI
 
-Design Principles
-
-Color Theory
-
-Typography in Design
-
-UI vs UX
-
-Wireframing
-
-Accessibility Basics
 
 🟢 SECTION 6: Bootstrap
 
